@@ -1,1 +1,2 @@
 Archivo 2 creado desde local
+Segunda línea añadida desde local en arch2.txt
